@@ -1,12 +1,5 @@
-# HOW TO USE THIS FILE
-
-See [github documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
-
-Copy the contents below to a file in one of the following places:
-- PROJECT/pull_request_template.md
-- PROJECT/docs/pull_request_template.md
-
-# COPY BELOW HERE
+[//]: # (See github documentation on how to use this pull request template: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+[//]: # (How to add a Organisation wide PR template on: https://www.rhysmills.com/post/2021/09/07/set-a-default-pr-template-for-a-github-organisation.html)
 
 Jira issue: [*NUMBER*](https://fouriq.atlassian.com/REPLACE_ME)
 
