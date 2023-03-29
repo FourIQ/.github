@@ -1,16 +1,16 @@
 [//]: # (See github documentation on how to use this pull request template: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
 [//]: # (How to add a Organisation wide PR template on: https://www.rhysmills.com/post/2021/09/07/set-a-default-pr-template-for-a-github-organisation.html)
 
-Jira issue: [*NUMBER*](https://fouriq.atlassian.com/REPLACE_ME)
+Jira issue: [*NUMBER*](https://fouriq.atlassian.net/REPLACE_ME)
 
 # For the implementor
 ## Why do we need this change?
 
-* FILL_ME_IN
+* EXPLAIN the context of the change
 
 ## This change addresses the need by:
 
-* FILL_ME_IN
+* EXPLAIN your solution
 
 ## Am I done?
 
@@ -22,7 +22,7 @@ Jira issue: [*NUMBER*](https://fouriq.atlassian.com/REPLACE_ME)
 # For the reviewer
 
 You can verify this functionality by:
-- FILL_ME_IN
+- WHAT steps does the reviewer need to take to reproduce/verify the new functionality
 
 ## Is this done?
 
