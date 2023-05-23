@@ -10,22 +10,22 @@
 
 * EXPLAIN your solution
 
+## 🚨This can be tested as follows:
+
+1. WHAT steps does the reviewer need to take to reproduce/verify the new functionality
+
 ## ☑️Am I done?
 
 - [ ] I have verified this works
-- [ ] I have filled in how to test this
 - [ ] I have linted/formatted my code (Run rubocop/scss-lint…)
 - [ ] I have booked my hours on Jira
 
 # 👮For the reviewer
-
-You can verify this functionality by:
-- WHAT steps does the reviewer need to take to reproduce/verify the new functionality
-
 ## ✅Is this done?
 
-- [ ] Are all hours booked? (Including yours!)
+- [ ] I have verified this works
 - [ ] Is the code okay?
 - [ ] Does this solve the clients problem?
-- [ ] I will deploy this to sandbox
+- [ ] Are all hours booked? (Including yours!)
+- [ ] I will deploy this to sandbox/production
 - [ ] I will inform Timo/Seniors/Customer
